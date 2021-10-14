@@ -1,14 +1,15 @@
 # Table of contents
 
-* [Introduction](README.md)
+## Prioritisation: A Cataloguing Framework <a id="prioritisation-a-cataloguing-framework-1"></a>
 
-## BACKGROUND
+* [Prioritisation: A Cataloguing Framework](prioritisation-a-cataloguing-framework.md)
+  
+### BACKGROUND
+  * [Cataloguing History](visual-materials/background/cataloguing-history.md)
+  * [Visual and Material Culture Inventory Metadata](visual-materials/background/inventory-metadata.md)
+  * [Historic Numbering Systems](visual-materials/background/historic-numbering.md)
 
-* [Cataloguing History](background/cataloguing-history.md)
-* [Visual and Material Culture Inventory Metadata](background/inventory-metadata.md)
-* [Historic Numbering Systems](background/historic-numbering.md)
-
-## METADATA FRAMEWORK
+### METADATA FRAMEWORK
 
 * [Metadata Elements](metadata-framework/metadata-elements/README.md)
   * [Identification Number](metadata-framework/metadata-elements/identification-number.md)
@@ -42,7 +43,7 @@
   * [Location](metadata-framework/metadata-elements/location.md)
 * [Metadata Crosswalk](metadata-framework/metadata-crosswalk.md)
 
-## PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
+### PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
 
 * [Content Considerations](pre-cataloguing/sources-of-information.md)
 * [Numbering & Part Numbering](pre-cataloguing/single-group-objects.md)
@@ -51,7 +52,7 @@
   * [Identifying prints](pre-cataloguing/about/untitled.md)
   * [Identifying photographs](pre-cataloguing/about/specifics.md)
 
-## CURRENT SYSTEM GUIDELINES
+### CURRENT SYSTEM GUIDELINES
 
 * [Library cataloguing](current-system-guidelines/library-cataloguing/README.md)
   * [Library cataloguing specifics](current-system-guidelines/library-cataloguing/library-cataloguing-specifics.md)
