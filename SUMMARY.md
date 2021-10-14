@@ -4,7 +4,7 @@
 
 ## Prioritisation: A Cataloguing Framework <a id="prioritisation-a-cataloguing-framework-1"></a>
 
-* [Prioritisation: A Cataloguing Framework](prioritisation-a-cataloguing-framework.md)# Table of contents
+* [Prioritisation: A Cataloguing Framework](prioritisation-a-cataloguing-framework.md)
 
 ## Visual Material
   * [Visual Material](README.md)
