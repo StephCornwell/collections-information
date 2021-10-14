@@ -5,6 +5,7 @@
 * [Prioritisation: A Cataloguing Framework](prioritisation-a-cataloguing-framework.md)
   
 ### BACKGROUND
+  * [Introduction] (visual-materials/background/introduction.md)
   * [Cataloguing History](/visual-materials/background/cataloguing-history.md)
   * [Visual and Material Culture Inventory Metadata](/visual-materials/background/inventory-metadata.md)
   * [Historic Numbering Systems](/visual-materials/background/historic-numbering.md)
