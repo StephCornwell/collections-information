@@ -1,20 +1,21 @@
 # Table of contents
 
-## Prioritisation: A Cataloguing Framework <a id="prioritisation-a-cataloguing-framework-1"></a>
+## Prioritisation: A Cataloguing Framework <a href="#prioritisation-a-cataloguing-framework-1" id="prioritisation-a-cataloguing-framework-1"></a>
 
-* [Prioritisation: A Cataloguing Framework](prioritisation-a-cataloguing-framework.md)
-  
-### BACKGROUND
-  * [Introduction](visual-material/Introduction.md)
-  * [Cataloguing History](visual-material/background/cataloguing-history.md)
-  * [Visual and Material Culture Inventory Metadata](visual-material/background/inventory-metadata.md)
-  * [Historic Numbering Systems](visual-material/background/historic-numbering.md)
+* [Prioritisation: A Cataloguing Framework](README.md)
 
-### METADATA FRAMEWORK
+## BACKGROUND
+
+* [Introduction](visual-material/Introduction.md)
+* [Cataloguing History](visual-material/background/cataloguing-history.md)
+* [Visual and Material Culture Inventory Metadata](visual-material/background/inventory-metadata.md)
+* [Historic Numbering Systems](visual-material/background/historic-numbering.md)
+* [Number of Objects](background/number-of-objects.md)
+
+## METADATA FRAMEWORK
 
 * [Metadata Elements](visual-material/metadata-framework/metadata-elements/README.md)
   * [Identification Number](visual-material/metadata-framework/metadata-elements/identification-number.md)
-  * [Number of Objects](visual-material/metadata-framework/metadata-elements/number-of-objects.md)
   * [Object Type](visual-material/metadata-framework/metadata-elements/object-type/README.md)
     * [Object Type List](visual-material/metadata-framework/metadata-elements/object-type/object-type-list.md)
   * [Creator](visual-material/metadata-framework/metadata-elements/creator/README.md)
@@ -44,7 +45,7 @@
   * [Location](visual-material/metadata-framework/metadata-elements/location.md)
 * [Metadata Crosswalk](visual-material/metadata-framework/metadata-crosswalk.md)
 
-### PRE CATALOGUING CONSIDERATIONS <a id="pre-cataloguing"></a>
+## PRE CATALOGUING CONSIDERATIONS <a href="#pre-cataloguing" id="pre-cataloguing"></a>
 
 * [Content Considerations](visual-material/pre-cataloguing/sources-of-information.md)
 * [Numbering & Part Numbering](visual-material/pre-cataloguing/single-group-objects.md)
@@ -53,10 +54,9 @@
   * [Identifying prints](visual-material/pre-cataloguing/about/untitled.md)
   * [Identifying photographs](visual-material/pre-cataloguing/about/specifics.md)
 
-### CURRENT SYSTEM GUIDELINES
+## CURRENT SYSTEM GUIDELINES
 
 * [Library cataloguing](visual-material/current-system-guidelines/library-cataloguing/README.md)
   * [Library cataloguing specifics](visual-material/current-system-guidelines/library-cataloguing/library-cataloguing-specifics.md)
 * [Archive cataloguing](visual-material/current-system-guidelines/archive-cataloguing/README.md)
   * [Archive cataloguing specifics](visual-material/current-system-guidelines/archive-cataloguing/archive-cataloguing-specifics.md)
-
